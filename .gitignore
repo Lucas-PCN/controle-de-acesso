@@ -31,3 +31,4 @@ target/*
 .project
 /bin/
 /target/
+trybe-filter-repo.sh
