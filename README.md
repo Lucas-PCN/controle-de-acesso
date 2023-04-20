@@ -12,7 +12,7 @@
   O fluxo do sistema é definido em duas etapas principais: inserir a idade do cliente e finalizar o sistema para gerar o relatório. Após a inserção da idade, o sistema irá liberar a catraca e exibir uma mensagem adequada de acordo com a categoria de idade. O ciclo se repete até que a opção de finalização seja escolhida e o relatório seja gerado.
 
 ## Fluxo do sistema:
-![Fluxo-controle-de-acesso](https://github.com/analuisams99/controle-de-acesso-java/blob/main/img/controle-acesso.png)
+![Fluxo-controle-de-acesso](https://github.com/Lucas-PCN/controle-de-acesso/blob/main/img/controle-acesso.png)
 
 
 ## Rodando o projeto localmente
